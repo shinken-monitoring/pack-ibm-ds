@@ -1,8 +1,8 @@
 {
-        "name": "ibm",
+        "name": "ibm-ds",
         "types": ["pack"],
         "version": "1.4",
-        "homepage": "https://github.com/shinken-monitoring/pack-ibm",
+        "homepage": "https://github.com/shinken-monitoring/pack-ibm-ds",
         "author": "Jean Gabes",
         "description": "Sample pack, will do nothing, it's for learning how to make pack files",
         "contributors": [
@@ -15,7 +15,7 @@
                 "email": "dessai.imrane@gmail.com"
           }
         ],
-        "repository": "https://github.com/shinken-monitoring/pack-ibm",
+        "repository": "https://github.com/shinken-monitoring/pack-ibm-ds",
         "keywords": [
           "pack",
           
