@@ -3,12 +3,12 @@
         "types": ["pack"],
         "version": "1.4",
         "homepage": "https://github.com/shinken-monitoring/pack-ibm-ds",
-        "author": "Jean Gabes",
-        "description": "Sample pack, will do nothing, it's for learning how to make pack files",
+        "author": "Forlot Romain",
+        "description": "Pack for IBM DS storage",
         "contributors": [
           {
-                "name": "Jean Gabes",
-                "email": "naparuba@gmail.com"
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
           },
           {
                 "name": "Imrane Dessai",
@@ -18,6 +18,8 @@
         "repository": "https://github.com/shinken-monitoring/pack-ibm-ds",
         "keywords": [
           "pack",
+	  "storage",
+	  "ibm"
           
         ],
         "dependencies": {
