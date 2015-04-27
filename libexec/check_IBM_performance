@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use Switch;
 #use lib "/usr/lib/nagios/plugins";
-use lib "/omd/sites/nagios_ro/lib/nagios/plugins";
+use lib "/var/lib/shinken/libexec";
 use utils qw(%ERRORS $TIMEOUT);
 use Getopt::Long;
 use vars qw/$opt_storage1 $opt_storage2 $opt_type $opt_name $opt_sec $opt_verbose $opt_wk $opt_ck $opt_wi $opt_ci $opt_help $opt_freshness/;
